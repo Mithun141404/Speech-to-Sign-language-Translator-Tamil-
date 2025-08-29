@@ -15,7 +15,7 @@
   <strong>Transform spoken Tamil words into beautiful sign language representations in real-time</strong>
 </p>
 
-![Demo](https://via.placeholder.com/800x400/1a1a2e/eee?text=Tamil+Speech+to+Sign+Demo)
+
 
 </div>
 
@@ -329,7 +329,7 @@ timeline
 ### 📞 **Support & Contact**
 
 <p>
-<a href="mailto:support@example.com"><img src="https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="mailto:mithunteen@gmail.com"><img src="https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
 <a href="#"><img src="https://img.shields.io/badge/Discord-Community-purple?style=for-the-badge&logo=discord" alt="Discord"></a>
 <a href="#"><img src="https://img.shields.io/badge/Documentation-Wiki-green?style=for-the-badge&logo=gitbook" alt="Docs"></a>
 </p>
